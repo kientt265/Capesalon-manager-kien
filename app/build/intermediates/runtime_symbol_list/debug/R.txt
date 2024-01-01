@@ -3232,6 +3232,7 @@ int id center_vertical 0x7f080072
 int id chain 0x7f080073
 int id chain2 0x7f080074
 int id chains 0x7f080075
+int id checkBox 0x7f0801fe
 int id checkbox 0x7f080076
 int id checked 0x7f080077
 int id chronometer 0x7f080078
@@ -3365,6 +3366,7 @@ int id linear 0x7f0800f7
 int id listMode 0x7f0800f8
 int id list_item 0x7f0800f9
 int id lv_booking 0x7f0801fb
+int id lv_detail_booking 0x7f0801fd
 int id lv_shopping 0x7f0801fc
 int id m3_side_sheet 0x7f0800fa
 int id marquee 0x7f0800fb
@@ -3574,6 +3576,7 @@ int id textSpacerNoButtons 0x7f0801c6
 int id textSpacerNoTitle 0x7f0801c7
 int id textStart 0x7f0801c8
 int id textTop 0x7f0801c9
+int id textView 0x7f0801ff
 int id text_input_end_icon 0x7f0801ca
 int id text_input_error_icon 0x7f0801cb
 int id text_input_start_icon 0x7f0801cc
@@ -3758,7 +3761,9 @@ int layout design_navigation_menu 0x7f0b002c
 int layout design_navigation_menu_item 0x7f0b002d
 int layout design_text_input_end_icon 0x7f0b002e
 int layout design_text_input_start_icon 0x7f0b002f
+int layout detail_infomation_booking 0x7f0b0070
 int layout home 0x7f0b0030
+int layout list_item 0x7f0b0071
 int layout m3_alert_dialog 0x7f0b0031
 int layout m3_alert_dialog_actions 0x7f0b0032
 int layout m3_alert_dialog_title 0x7f0b0033
