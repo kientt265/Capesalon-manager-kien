@@ -1,6 +1,0 @@
-com.example.capellisalon_app_manager.test.app-core-1.5.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\bcdd87549c03efe007048fa465912e4a\transformed\core-1.5.0\res
-com.example.capellisalon_app_manager.test.app-annotation-experimental-1.3.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\fb3749072db03c0afe1216cff719d970\transformed\annotation-experimental-1.3.0\res
-com.example.capellisalon_app_manager.test.app-androidTest-2 C:\Users\ASUS\OneDrive_UIT\Doc\androidStudioProject\CapelliSalon_app_manager\app\build\generated\res\resValues\androidTest\debug
-com.example.capellisalon_app_manager.test.app-mergeDebugAndroidTestResources-3 C:\Users\ASUS\OneDrive_UIT\Doc\androidStudioProject\CapelliSalon_app_manager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.capellisalon_app_manager.test.app-mergeDebugAndroidTestResources-4 C:\Users\ASUS\OneDrive_UIT\Doc\androidStudioProject\CapelliSalon_app_manager\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.capellisalon_app_manager.test.app-merged_res-5 C:\Users\ASUS\OneDrive_UIT\Doc\androidStudioProject\CapelliSalon_app_manager\app\build\intermediates\merged_res\debugAndroidTest

@@ -1,3 +1,0 @@
-com.example.capellisalon_app_manager.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
